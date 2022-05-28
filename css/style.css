@@ -45,6 +45,10 @@ p {
 .row{
 	margin:0px;
 	padding:0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
 }
 ul {
 	margin: 0;
@@ -447,11 +451,11 @@ h1 {
     list-style: none;
 }
 .w3l_abtl {
-    background-color:#dc1212c2;
+    background-color:#274472;
     padding: 6em 4em ;
 }
 .w3-agileits-team-title {
-    padding: 6em 0 0;
+    padding: 6em 0 0em;
 }
 .w3l_abtl h5 {
     text-align: center;
@@ -459,11 +463,13 @@ h1 {
     font-size: 18px;
     font-weight: 600;
     letter-spacing: 2px;
+    
 }
 .w3l_abtl p {
     text-align: center;
     color: #fff;
     font-size: 15px;
+    padding-top: 2em;
  
 }
 .w3l_abtl h3 {
@@ -481,9 +487,10 @@ ul.resp-tabs-list {
 .resp-tab-active {
     text-shadow: none;
     color: #fff;
-    border-bottom: 3px solid #000;
-    background:#dc1212c2;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    background:#274472;
     padding: 15px 47px;
+    border-radius: 10px;
 }
 p.dng {
     margin-top: 25px;
@@ -512,7 +519,7 @@ h4.w3_chg {
     color: #000;
 }
 .white-left i {
-    font-size: 30px;
+    font-size: 40px;
 }
 /** /About **/
 
@@ -528,7 +535,7 @@ h4.w3_chg {
 }
 
 .wthree-services-info h5{
-    color: #dc1212c2;
+    color: #000000c2;
     font-size: 1em;
     text-transform: uppercase;
     font-weight: 600;
@@ -545,8 +552,10 @@ h4.w3_chg {
     border: solid 2px #fbd232;
     color: #212121;
 }
+
+
 .wthree-services-grid:hover .wthree-services-info h5{
-	color:#dc1212c2;
+	color:#a8a6a6;
 }
 .wthree-services-icon i {
     font-size: 100px;

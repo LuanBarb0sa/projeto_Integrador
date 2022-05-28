@@ -94,7 +94,7 @@ html[xmlns] .slides {display: block;}
 	border-radius: 50%;
 }
 .flex-control-paging li a.flex-active { 
-	background:#ff4f81;
+	background:#dc1212c2;
     cursor: default;
 }
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
