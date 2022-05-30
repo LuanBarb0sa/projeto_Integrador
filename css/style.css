@@ -734,12 +734,12 @@ section.gallery h3 {
 }
 .wthree_testimonials_grid_main {
     margin: 4em auto 0;
-    background: #c4dff6;
+    background: #095880;
     padding: 5em;
     width: 90%;
 }
 .wthree_testimonials_grid {
-    background-color: #fff;
+    background-color: #095880;
     padding: 1em;
 }
 .wthree_testimonials_grid_pos {
@@ -752,20 +752,20 @@ section.gallery h3 {
     margin: 1em 0 0;
 	font-size: 1em;
     font-weight: 400;
-    color: #838383;
+    color: #fff;
     line-height: 2em;
     letter-spacing: 1px;
 }
 
 .wthree_testimonials_grid1 h5 {
     font-size: 1em;
-    color: #dc1212c2;
+    color: #fff;
     margin: 1.5em 0 0em;
 	font-weight:600;
 	letter-spacing:2px;
 }
 .wthree_testimonials_grid1 p{
-	color:#838383;
+	color:#fff;
 }
 /*--flexisel--*/
 .flex-slider{	
