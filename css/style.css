@@ -140,7 +140,7 @@ li.nav-item {
     padding: .25rem .75rem;
     font-size: 1.25rem;
     line-height: 1;
-    background-color: #dc1212c2;
+    background-color: #274472;
     border: 1px solid transparent;
     border-radius: .25rem;
 }
@@ -158,14 +158,14 @@ li.nav-item {
     color: #212529;
     text-align: left;
     list-style: none;
-    background-color:#dc1212c2;
+    background-color:#274472;
     background-clip: padding-box;
     border: 1px solid rgba(0,0,0,.15);
     border-radius: .25rem;
 }
 .btn-outline-success {
     color: #fff;
-    background-color: #dc1212c2;
+    background-color: #274472;
     background-image: none;
     border-color: #0099e5;
 	border:none;
@@ -253,7 +253,7 @@ color:#fff !important;
 }
 
 .botton a {
-	background: #dc1212c2;
+	background: #274472;
 	color: #fff;
 	display: inline-block;
 	letter-spacing: 3px;
@@ -423,7 +423,7 @@ h1 {
 .white-right h4 {
     font-size: 26px;
     margin: 30px 0 30px;
-    color: #dc1212c2;
+    color: #274472;
 	font-weight:600;
 	letter-spacing:2px;
 }
@@ -575,7 +575,7 @@ section#services {
 .t-info{
 	text-align:center;
     padding: 10px;
-	background:#dc1212c2;
+	background:#274472;
 }
 h3.title {
     text-align: center;
@@ -818,11 +818,11 @@ section.gallery h3 {
 }
 .nbs-flexisel-nav-left {
 	left: 3.5%;
-    background:url(../images/right.png) no-repeat 10px 11px #dc1212c2;
+    background:url(../images/right.png) no-repeat 10px 11px #274472;
 }
 .nbs-flexisel-nav-right {
 	right: 3.5%;
-	background:url(../images/left.png) no-repeat 14px 12px #dc1212c2;
+	background:url(../images/left.png) no-repeat 14px 12px #274472;
 }
 /*--//flexisel--*/
 .testimonials {
@@ -1000,7 +1000,7 @@ ul.faq li {
     position: relative;
     color: #fff;
     text-decoration: none;
-    background: #dc1212c2;
+    background: #274472;
     text-align: center;
     font-size: 1.1em;
     text-transform: uppercase;
@@ -1092,7 +1092,7 @@ svg.svg-inline--fa.fa-rss.fa-w-14 {
 	color:#1da1f2;
 }
 .w3_agileits_social_media ul li a.wthree_dribbble{
-	color:#dc1212c2;
+	color:#274472;
 }
 .w3_agileits_social_media ul li a.wthree_rss{
 	color:#f26522;
